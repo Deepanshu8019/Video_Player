@@ -1,0 +1,96 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.container {
+  position: relative;
+  width: 75vw;
+  height: 90vh;
+}
+
+.fileName {
+  margin: 0;
+}
+
+.video-wrapper {
+  position: relative;
+  display: flex;
+  font-size: larger;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90%;
+  object-fit: cover;
+}
+
+.VideoChooser {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumbnail {
+  position: absolute;
+  width: 35%;
+  height: auto;
+}
+
+.choseFile {
+  margin-bottom: 5rem;
+  display: block;
+  color: black;
+}
+
+.Player {
+  color: black;
+  display: block;
+}
+
+.active {
+  display: none;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+
+.input-box {
+
+  width: 70%;
+  height: auto;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.componentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+  display: block;
+
+}
