@@ -28,7 +28,7 @@ npm run dev
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/video-player-app.git
+   https://github.com/Deepanshu8019/Video_Player.git
 
 
 Feel free to customize it according to your project's specific details and requirements! Let me know if you need further assistance!
